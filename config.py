@@ -7,22 +7,22 @@ load_dotenv()
 API_ID = int(getenv("API_ID", None))
 API_HASH = getenv("API_HASH", None)
 BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", "6922271843"))
+OWNER_ID = int(getenv("OWNER_ID", "1807588434"))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "Ravan_Lankaa")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "God_Ravana")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "GOD_R4V4N")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "https://t.me/+FSkhK9hV1TtkNTk9")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "ll_BAIRAGI_DP_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_BAIRAGI_ll")
 
 # Random Start Images
 IMG = [
-    "https://graph.org/file/f86b71018196c5cfe7344.jpg",
-    "https://graph.org/file/a3db9af88f25bb1b99325.jpg",
-    "https://graph.org/file/5b344a55f3d5199b63fa5.jpg",
-    "https://graph.org/file/84de4b440300297a8ecb3.jpg",
-    "https://graph.org/file/84e84ff778b045879d24f.jpg",
-    "https://graph.org/file/a4a8f0e5c0e6b18249ffc.jpg",
-    "https://graph.org/file/ed92cada78099c9c3a4f7.jpg",
-    "https://graph.org/file/d6360613d0fa7a9d2f90b.jpg",
+    "https://graph.org/file/1d5063e2b9f08c0109108.jpg",
+    "https://graph.org/file/a1c1884f8132d2c4463dd.jpg",
+    "https://graph.org/file/aa8dac7ab7aec317929da.jpg",
+    "https://graph.org/file/78912103eb258da099584.jpg",
+    "https://graph.org/file/07214f35e4c5cf89685c2.jpg",
+    "https://graph.org/file/74350033a7caed10dfb79.jpg",
+    "https://graph.org/file/523184671fb2ede1c68fe.jpg",
+    "https://graph.org/file/8bc2fff277ac87a7c589b.jpg",
 ]
 
 
