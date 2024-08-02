@@ -9,7 +9,7 @@
     "pyrogram"
   ],
     "buildpacks": [{
-    "url": "heroku/python"
+    "url": "bots.Business/python"
   }],
   "repository": "https://github.com/",
   "env": {
